@@ -38,6 +38,8 @@ int main(void)
 
     printf("The max of the array is %d and the average is %d\n",
            arrayMax(array, numItems), arrayAvg(array, numItems));
+
+    free(array);
 }
 
 int *createRandomIntegerArray(int n, int max)
