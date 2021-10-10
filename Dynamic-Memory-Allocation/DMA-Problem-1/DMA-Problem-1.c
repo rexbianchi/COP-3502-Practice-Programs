@@ -1,5 +1,5 @@
 /*  
-    Write a program that has a few functions that perform the following tasks: 
+    1) Write a program that has a few functions that perform the following tasks: 
  
         a) A function that takes in an integer n, representing the number of items, and an integer, 
         max, representing the maximum possible item, dynamically allocates an integer array of 
